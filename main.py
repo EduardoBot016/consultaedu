@@ -164,7 +164,7 @@ while(Sair == False):
     tools.clear()
     print(f"Progamado: {CY} EDUARDO FAGUNDES {CO} em 21/03/2021")
     print()
-    os.system("figlet KINY")
+    os.system("figlet EDUARDO")
     print(f'{C}[{G}*{C}]'+random.choice(welcome_msg)+' '+str(user)+'!')
     if anim == 1:
         time.sleep(1)
@@ -211,7 +211,7 @@ while(Sair == False):
     	tools.nomemae()
 
     if op == '17' and kinymode == 1:
-        os.system('figlet KINY')
+        os.system('figlet EDUARDO')
         print()
         print(f'{C}[{G}1{C}] Gerar link whatsapp')
         print(f'{C}[{G}2{C}] Youtube downloader')
@@ -231,7 +231,7 @@ while(Sair == False):
     	write()
 
     if op == '96':
-            os.system('figlet KINY')
+            os.system('figlet EDUARDO')
             print(f'{C}[{G}1{C}] Login : {login}')
             print(f'{C}[{G}2{C}] Trocar APIs')
             print(f'{C}[{G}3{C}] Limpar data')
@@ -344,7 +344,7 @@ while(Sair == False):
         tools.ip(ip_api,mode,token)
 
     if op == '4' or op == '04':
-        os.system('figlet KINY')
+        os.system('figlet EDUARDO')
         print(f'''
 {C}[{Y}i{C}] O QUE DESEJA FAZER?
 {C}[{G}1{C}] GERAR CNPJ
